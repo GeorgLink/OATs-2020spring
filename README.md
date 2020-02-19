@@ -20,7 +20,7 @@ Markdown is a lightweight option for formatting text. See this [cheat sheet](htt
 |Brody|   |
 |Cade|   |
 |Caleb|   |
-|Chase|   |
+|Chase| @Eggnog889  |
 |Chris|   |
 |Colin|   |
 |Danny|   |
